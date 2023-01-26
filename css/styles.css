@@ -81,7 +81,7 @@ input {
   background-color: #fff !important;
   opacity: 1;
   position: relative;
-  top: 0.2vh;
+  top: -0.6vh;
 }
 
 img { max-width: 50vh; width:90%;   position: relative; top: -4.2vh;}
@@ -103,7 +103,7 @@ button {
   outline: none !important;
   width: 90%;
   position: relative;
-  top: 0.6vh;
+  top: -0.6vh;
 }
 
 button:hover {
